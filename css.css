@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background: url("");
+    background-color: #b80f22;
     background-size: cover;
     font-family: sans-serif;
     height: 100vh;
@@ -82,6 +83,3 @@ body{
     
 }
 
-.login-box a:hover{
-        
-    }
